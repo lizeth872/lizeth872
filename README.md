@@ -2,5 +2,6 @@
 
 Here are some ideas to get you started:
 
-- Técnica en infromática.
-- Gran interes en ampliar mi conocimiento en Analisis de datos.
+- Computing's tech.
+- I'm currently learning HTML, CSS and JS
+- Interest in expanding knowledge in data analytics.
